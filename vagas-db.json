@@ -1,0 +1,25 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor",
+      "foto": "foto1.jpg",
+      "descricao": "Programador Pleno",
+      "salario": "7000"
+    },
+    {
+      "id": 2,
+      "nome": "desenvolvedor front-end pleno",
+      "foto": "foto2.jpg",
+      "descricao": "Trabalhar com Spring boot",
+      "salario": 7000
+    },
+    {
+      "id": 3,
+      "nome": "desenvolvedor front-end senior",
+      "foto": "foto3.jpg",
+      "descricao": "Trabalhar com Spring boot e angular",
+      "salario": 10000
+    }
+  ]
+}
